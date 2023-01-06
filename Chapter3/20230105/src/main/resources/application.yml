@@ -1,0 +1,15 @@
+spring:
+  thymeleaf:
+    cache: false
+
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
+
+  h2:
+    console:
+      enabled: true
+
+#server:
+#  servlet:
+#    context-path: /api
