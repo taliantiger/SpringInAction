@@ -1,0 +1,51 @@
+spring:
+#  datasource:
+#    generate-unique-name: false
+#    name: tacocloud
+#    platform: h2
+
+#    #驱动
+#    driver-class-name: org.h2.Driver
+#
+#    #数据库URL 内存模式
+#    #url: jdbc:h2:mem:hello
+#
+#    #数据库URL嵌入模式
+#    url: jdbc:h2:file:D:/D/test
+#
+#    #数据库账号密码
+#    username: sa
+#    password: sa
+#
+#
+#  h2:
+#    console:
+#      enable: true
+#
+#logging:
+#  level:
+#    root: INFO
+
+
+# Chapter6 part1
+# Configuration Properties
+  datasource:
+#    generate-unique-name: false
+#    name: tacocloud
+
+#    url: jdbc:myslq://localhost/tacocloud
+    url: jdbc:mysql://localhost/tacocloud
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+#    参考StackOverflow: https://stackoverflow.com/questions/51006620/error-creating-bean-unsatisfied-dependency-expressed-through-constructor-param
+#   设置，在没有H2database dependence的情况下，启动项目时，自动执行schema.sql
+  sql:
+    init:
+      mode: always
+
+
+server:
+  port: 9090
+

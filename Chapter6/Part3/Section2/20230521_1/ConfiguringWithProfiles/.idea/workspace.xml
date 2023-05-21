@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af01d2a2-8937-4612-8aa9-6c764b3941ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Section3/20230521_1/Example1_DoNotNeedToRun/ConfiguringWithProfiles/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section3/20230521_1/Example1_DoNotNeedToRun/ConfiguringWithProfiles/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\Maven3\install\repository" />
+        <option name="mavenHome" value="D:\Maven\Maven3\install\apache-maven-3.8.2-bin\apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\Maven\Maven3\install\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#USE_PROJECT_JDK" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OpG06eF9DJwyGTn8pDNDsNLC7F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example1_AndDoNotNeedToRun/ConfiguringWithProfiles" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.17416546" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ProgrammingData\IDEATest\SpringInAction6\ProducingProduct\Ch5\4_10\20230504_2\MySpringSecurity\src\main\resources\templates" />
+      <recent name="F:\ProgrammingData\IDEATest\SpringInAction6\ProducingProduct\Ch5\4_10\20230504\MySpringSecurity\src\main\resources\templates" />
+      <recent name="F:\ProgrammingData\IDEATest\SpringInAction6\ProducingProduct\Ch5\3_10\20230501\MySpringSecurity\src\main\resources\static" />
+      <recent name="F:\ProgrammingData\IDEATest\SpringInAction6\ProducingProduct\Ch5\1_10\MySpringSecurity\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ProgrammingData\IDEATest\SpringInAction6\ProducingProduct\Ch5\3_10\20230502\MySpringSecurity\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tacos.security" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TacoCloudApplication (1)">
+    <configuration name="TacoCloudApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="OwnConfigurationProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tacos.TacoCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TacoCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MySpringSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tacos.TacoCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TacoCloudApplication (1)" />
+        <item itemvalue="Spring Boot.TacoCloudApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af01d2a2-8937-4612-8aa9-6c764b3941ee" name="Default Changelist" comment="" />
+      <created>1682249884747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682249884747</updated>
+      <workItem from="1682249885859" duration="6831000" />
+      <workItem from="1682419222854" duration="5234000" />
+      <workItem from="1682478070244" duration="10652000" />
+      <workItem from="1682754954974" duration="8797000" />
+      <workItem from="1682783272473" duration="13000" />
+      <workItem from="1682836482133" duration="9979000" />
+      <workItem from="1682923698227" duration="15609000" />
+      <workItem from="1683025393975" duration="3061000" />
+      <workItem from="1683095539148" duration="2255000" />
+      <workItem from="1683098573516" duration="4355000" />
+      <workItem from="1683178718768" duration="3377000" />
+      <workItem from="1683184628378" duration="6684000" />
+      <workItem from="1683196239979" duration="1133000" />
+      <workItem from="1683197506450" duration="6000" />
+      <workItem from="1684553387140" duration="11404000" />
+      <workItem from="1684567553616" duration="9313000" />
+      <workItem from="1684584849521" duration="472000" />
+      <workItem from="1684628135382" duration="2058000" />
+      <workItem from="1684630562260" duration="4580000" />
+      <workItem from="1684636639951" duration="1317000" />
+      <workItem from="1684648856056" duration="2741000" />
+      <workItem from="1684673186501" duration="270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

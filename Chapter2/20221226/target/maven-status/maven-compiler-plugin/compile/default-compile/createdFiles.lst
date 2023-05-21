@@ -1,0 +1,9 @@
+tacos\model\Ingredient.class
+tacos\model\TacoOrder.class
+tacos\TacoApplication.class
+tacos\web\IngredientByIdConverter.class
+tacos\model\Ingredient$Type.class
+tacos\web\DesignTacoController.class
+tacos\model\Taco.class
+tacos\web\HomeController.class
+tacos\web\OrderController.class

@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
+
+  # 以下的配置不要填写，否则会连接不成功
+  #  h2:
+  #    console:
+  #      enable: true
+
+  security:
+    oauth2:
+      client:
+        registration:
+          facebook:
+            clientId: 189500217263951
+            clientSecret: 0cc7df579ed94e86e21ccef1b2a547d1
+            scope: email, public_profile
+
+# Own configuration Properties
+#taco:
+#  orders:
+#    page-size: 2

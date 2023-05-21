@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "taco.orders",
+      "type": "tacos.web.OrderProps",
+      "sourceType": "tacos.web.OrderProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "taco.orders.page-size",
+      "type": "java.lang.Integer",
+      "description": "Set maximum number of orders to display in list.",
+      "sourceType": "tacos.web.OrderProps"
+    }
+  ],
+  "hints": []
+}

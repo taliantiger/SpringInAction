@@ -1,0 +1,62 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
+#    platform: h2
+
+#    #驱动
+#    driver-class-name: org.h2.Driver
+#
+#    #数据库URL 内存模式
+#    #url: jdbc:h2:mem:hello
+#
+#    #数据库URL嵌入模式
+#    url: jdbc:h2:file:D:/D/test
+#
+#    #数据库账号密码
+#    username: sa
+#    password: sa
+#
+#
+#  h2:
+#    console:
+#      enable: true
+#
+#logging:
+#  level:
+#    root: INFO
+
+
+# Embedded server
+server:
+#  port: 0
+
+ port: 8443
+ ssl:
+#   In different computer and files,
+#  need to change different absolute route of name
+   key-store: file:///F:/ProgrammingData/IDEATest/SpringInAction6/Chapter6/Part1/Part1_4/20230519/TalianKeys/mykeys.jks
+# After using key-store, need to use https rather than http.
+   key-store-password: letmein
+   key-password: letmein
+
+
+# Logging level
+logging:
+#  把log 写入到实体文件 TacoCloud.log中
+#  file:
+#    这个是linux 下的绝对路径
+#    path: /var/logs/
+#    file: TacoCloud.log
+#   尝试写入Windows 中但是无效
+#    path: file:///F:/ProgrammingData/IDEATest/SpringInAction6/Chapter6/Part1/Part1_4/20230519/TalianLogs/
+#    file: TacoCloud.log
+
+  level:
+#    root: WARN 的含义是将根日志记录器的日志级别设置为 WARN，
+#  这意味着只有警告级别及以上的日志信息会被输出，而低于警告级别的日志信息将被忽略。
+    root: WARN
+    org:
+      springframework:
+        security: DEBUG
+
